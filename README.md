@@ -56,14 +56,6 @@ Se você quiser contribuir para o projeto Dev & Dragons, siga as etapas abaixo:
 
 O projeto Dev & Dragons é licenciado sob a [MIT License](https://opensource.org/licenses/MIT).
 
-## Vitrine.Dev
-
-| :placard: Vitrine.Dev |<a href="https://cursos.alura.com.br/vitrinedev/christianoliver">Christian Oliveira</a> |
-| -------------  | --- |
-| :sparkles: Nome        | **Dev & Dragons**
-| :label: Tecnologias | JavaScript, HTML, CSS
-| :rocket: URL         |<a href="https://christianduhp.github.io/dev-and-dragons/">Link Dev & Dragons</a>
-
 ![screencapture-127-0-0-1-5501-index-html-2023-06-18-19_09_15](https://github.com/christianduhp/dev-and-dragons/assets/85292359/225e6429-380f-4212-adf8-60420189b8aa#vitrinedev)
 
 
